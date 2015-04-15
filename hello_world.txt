@@ -1,3 +1,15 @@
 Dave is helping me create my own Rosetta Stone.  Thanks!
 
 I’m lost for the moment.  Dave will help find me  :-)
+
+So, now I wanna see the GUI view of this stuff.
+
+I’m lost.  What a surprise!
+
+So, now Sara is helping me.  YAY!
+So, without GUI, I’m gonna type gitk  - HA
+
+Let’s try a SAVE one more time.
+
+OKAY, NOW WE’RE WORKING ON THE BRANCH OR THE CLONE OF THE MASTER.
+
